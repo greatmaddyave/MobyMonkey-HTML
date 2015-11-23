@@ -1,0 +1,25 @@
+{
+  "name": "learntocodeoc",
+  "version": "1.0.0",
+  "description": "Learn to Code: October 10th 2015",
+  "main": "app.js",
+  "scripts": {
+    "test": ";"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronperris/learntocodeoc.git"
+  },
+  "author": "Ron Perris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ronperris/learntocodeoc/issues"
+  },
+  "homepage": "https://github.com/ronperris/learntocodeoc#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+    "gulp": "^3.9.0",
+    "gulp-nodemon": "^2.0.4",
+    "jade": "^1.11.0"
+  }
+}
